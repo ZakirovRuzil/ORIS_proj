@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Eventify</name>
+    </assembly>
+    <members>
+        <member name="M:Eventify.Attributes.AuthAttribute.#ctor(System.String)">
+            <summary>
+            Конструктор
+            </summary>
+            <param name="policy">Политики</param>
+        </member>
+        <member name="M:Eventify.Configurators.AppConfigurator.ConfigurePostgresqlConnection(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Создание и настройка подключения к бд
+            </summary>
+            <param name="builder">WebApplicationBuilder</param>
+        </member>
+        <member name="M:Eventify.Configurators.AppConfigurator.ConfigureCore(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Добавить службы и зависимости проекта
+            </summary>
+            <param name="builder">WebApplicationBuilder</param>
+        </member>
+        <member name="M:Eventify.Configurators.AppConfigurator.ConfigureAuthorization(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Добавить и настроить авторизацию
+            </summary>
+            <param name="builder">WebApplicationBuilder</param>
+        </member>
+        <member name="M:Eventify.Configurators.AppConfigurator.ConfigureJwtBearer(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Подключение и настройка JwtBearer
+            </summary>
+            <param name="builder">WebApplicationBuilder</param>
+        </member>
+        <member name="M:Eventify.Configurators.Migrator.MigrateDbAsync(Microsoft.AspNetCore.Builder.WebApplication)">
+            <summary>
+            Применить миграцию к бд
+            </summary>
+            <param name="host">хост</param>
+        </member>
+    </members>
+</doc>
