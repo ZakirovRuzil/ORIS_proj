@@ -48,6 +48,7 @@ public static class AppConfigurator
         builder.Services.AddScoped<IJwtService, JwtService>();
         builder.Services.AddScoped<IUserService, UserService>();
         builder.Services.AddScoped<IEventService, EventService>();
+        builder.Services.AddScoped<ICommentService, CommentService>();
         builder.Services
             .AddIdentity<User, IdentityRole<Guid>>(opt =>
             {

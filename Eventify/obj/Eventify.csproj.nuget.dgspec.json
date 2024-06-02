@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Eventify\\Eventify.csproj": {}
+    "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Eventify\\Eventify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj": {
+    "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ruzyz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruzyz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Database\\Database.csproj": {
+    "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Database\\Database.csproj",
+        "projectPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\ruzyz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Database\\obj\\",
+        "outputPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruzyz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj"
+              "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Eventify\\Eventify.csproj": {
+    "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Eventify\\Eventify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Eventify\\Eventify.csproj",
+        "projectUniqueName": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Eventify\\Eventify.csproj",
         "projectName": "Eventify",
-        "projectPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Eventify\\Eventify.csproj",
+        "projectPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Eventify\\Eventify.csproj",
         "packagesPath": "C:\\Users\\ruzyz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Eventify\\obj\\",
+        "outputPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Eventify\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruzyz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Database\\Database.csproj"
+              "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Database\\Database.csproj"
               }
             }
           }

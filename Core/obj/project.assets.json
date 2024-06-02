@@ -2118,11 +2118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\ruzyz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\obj\\",
+      "outputPath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruzyz\\AppData\\Roaming\\NuGet\\NuGet.Config",

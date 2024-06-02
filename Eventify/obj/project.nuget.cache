@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f37mo0x0YGYDihQmC5QMW3zxAdXD6Ho0g9YKniiyzq4IjqM1OLBVHkHIH1UqcI0xVDRxZuGI+7xkWmJpd7vIJg==",
+  "dgSpecHash": "A7EYjTTFNeWbAf5gA9CxPf0tt0XbnIun/H86pfI99Ms6P1eLM9ZEuTUuEUX1xYrNLidGltxzaqGzDn/yqAdB7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Eventify\\Eventify.csproj",
+  "projectFilePath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Eventify\\Eventify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruzyz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ruzyz\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -12,6 +12,7 @@ public class DatabaseContext : IdentityDbContext<User, IdentityRole<Guid>, Guid>
         => AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
     public DbSet<Event> Events { get; set; }
+    public DbSet<Comment> Comments { get; set; }
 
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default) =>
         await SaveChangesAsync(true, cancellationToken);

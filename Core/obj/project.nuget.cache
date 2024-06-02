@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9oSNBb3QXTml2SzAdCDl/fJ40KYmCY4PRovTf9PnBxNu1tVqVgNMETUJtzgrqmskP7VqdfLHwx48paAw16J72A==",
+  "dgSpecHash": "wMCB8DIe3ptY6mzs/kD2Tpi/YSvVfRWY4+9ydXhXH7rWzPrGquieMOPht+T4pjuSJvvtV4Wi+SAIPmeEKnPQVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruzyz\\repo\\С#_Proj\\Eventify\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\ruzyz\\repo\\ORIS_Proj\\ORIS_proj\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruzyz\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ruzyz\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
